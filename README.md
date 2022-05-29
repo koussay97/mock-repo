@@ -1,6 +1,6 @@
 # mock-repo
 this repo is used to create fake json placeholders
-these endponts are created by default from the .mokend.json file
+these endpoints are created by default from the .mokend.json file
 this is the link for the docs required to understand the syntax for creating the models ..
 https://docs.mockend.com/
 
