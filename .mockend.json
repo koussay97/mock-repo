@@ -1,6 +1,7 @@
 {
   "Post": {
-    "title": {"hello world"},
+    "title": { "string": {} },
+    [ { "name": "Mxokole" }, { "name": "Tuilo" },{ "name": "Jafari" }  ]
     "comments": {
       "hasMany": "Comment"
     }
